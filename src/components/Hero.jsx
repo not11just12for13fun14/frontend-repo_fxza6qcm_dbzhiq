@@ -21,7 +21,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white">
-            Hi, I'm <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 via-blue-400 to-indigo-400">Your Name</span>
+            Hi, I'm <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 via-blue-400 to-indigo-400">Ralph Tigere</span>
           </h1>
           <p className="mt-4 text-lg text-slate-200/90 max-w-xl">
             Software engineer crafting delightful web apps with React, TypeScript, Node.js, and cloud-native architectures.

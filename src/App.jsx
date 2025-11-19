@@ -13,7 +13,7 @@ function App() {
       <About />
       <Contact />
       <footer className="py-10 text-center text-slate-400/80 border-t border-white/10">
-        <p>© {new Date().getFullYear()} Your Name — Built with love and caffeine.</p>
+        <p>© {new Date().getFullYear()} Ralph Tigere — Built with love and caffeine.</p>
       </footer>
     </div>
   )
